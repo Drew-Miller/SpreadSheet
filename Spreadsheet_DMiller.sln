@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spreadsheet_DMiller", "Spreadsheet_DMiller\Spreadsheet_DMiller.csproj", "{8EDA32E9-261D-4755-BAB6-95CD0B9E0A6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spreadsheet Engine", "Spreadsheet Engine\Spreadsheet Engine.csproj", "{B61FD3E0-5374-4DE2-8EC0-D44CD3A4F572}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EDA32E9-261D-4755-BAB6-95CD0B9E0A6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EDA32E9-261D-4755-BAB6-95CD0B9E0A6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EDA32E9-261D-4755-BAB6-95CD0B9E0A6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EDA32E9-261D-4755-BAB6-95CD0B9E0A6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B61FD3E0-5374-4DE2-8EC0-D44CD3A4F572}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B61FD3E0-5374-4DE2-8EC0-D44CD3A4F572}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B61FD3E0-5374-4DE2-8EC0-D44CD3A4F572}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B61FD3E0-5374-4DE2-8EC0-D44CD3A4F572}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
